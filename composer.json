@@ -1,5 +1,5 @@
 {
-    "name": "driesvints/blade-icons",
+    "name": "prutkov/blade-icons",
     "description": "A package to easily make use of icons in your Laravel Blade views.",
     "keywords": [
         "Blade",
@@ -7,7 +7,7 @@
         "Zondicons",
         "Laravel"
     ],
-    "homepage": "https://github.com/driesvints/blade-icons",
+    "homepage": "https://github.com/prutkov/blade-icons",
     "license": "MIT",
     "authors": [
         {
